@@ -6,5 +6,6 @@ ORANGE
 Blue
 Green
 Yello
+sky blue
 Red
 these are rainbow colors
