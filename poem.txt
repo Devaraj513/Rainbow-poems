@@ -5,6 +5,7 @@ Pink
 ORANGE
 Blue
 Green
+Indigo
 unicorn
 Yello
 sky blue
